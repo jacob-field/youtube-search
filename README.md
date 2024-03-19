@@ -3,7 +3,8 @@
 
 ## Description
 Uses the [YouTube Data API v3](https://developers.google.com/youtube/v3) to search YouTube and return the top 5 results
-Takes a string as input and returns each video's view count, like count, and like/view ratio
+
+Takes a string as input and returns each video's view count, like count, and like-to-view ratio
 
 ## How To Use
 1. Create a **Google Developer** project with the **YouTube Data API v3** using this setup guide:
