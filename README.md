@@ -7,12 +7,15 @@ Uses the [YouTube Data API v3](https://developers.google.com/youtube/v3) to sear
 Takes a string as input and returns each video's view count, like count, and like-to-view ratio
 
 ## How To Use
-1. Create a **Google Developer** project with the **YouTube Data API v3** using this setup guide:
-[youtube/v3/getting-started](https://developers.google.com/youtube/v3/getting-started)
+1. Create a **Google Developer** project with the **YouTube Data API v3** using [this setup guide](https://developers.google.com/youtube/v3/getting-started)
 
-2. In python, install the **google-api-python-client** using pip:
+2. In Python, install the **google-api-python-client** using pip:
 ```python
 pip install google-api-python-client
+```
+or alternatively,
+```python
+pip install requirements.txt
 ```
 
 3. In `main.py`, change the variable `API_KEY` to your **API key**:
@@ -22,9 +25,9 @@ API_KEY = 'your key here'
 
 ## Example Output
 ```
-Please enter what you would like to search for: mark rober
+Please enter what you would like to search for: Mark Rober
 
-Searching YouTube for mark rober...
+Searching YouTube for Mark Rober...
 
 Result #1: Testing If You Can Blow Your Own Sail
 24,621,311 views	 834,353 likes	 3.3887% of viewers liked
