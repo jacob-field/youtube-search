@@ -1,4 +1,4 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="Image of youtube logo" width="32" height="22"> youtube-search
+# <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="Image of youtube logo" width="32" height="22"> Youtube Search
 *by Jacob Field*
 
 ## Description
