@@ -15,7 +15,7 @@ pip install google-api-python-client
 ```
 or alternatively,
 ```python
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 3. In `main.py`, change the variable `API_KEY` to your **API key**:
